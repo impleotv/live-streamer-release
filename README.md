@@ -17,18 +17,18 @@ OS: Windows 10 64 bit / Linux x64.
 
 ## Installation
 
-**LiveStreamer** can be downloaded as a **zip** / tar.gz file.  
+**LiveStreamer** can be downloaded as a **zip** file.  
 
 
 ## Download link
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **LiveStreamer Windows x64** |  master | [liveStreamer.zip](https://github.com/impleotv/live-streamer-release/releases/latest/download/liveStreamer.zip) | 
-| **LiveStreamer Linux x64**   |  master | [liveStreamerLinux.zip](https://github.com/impleotv/live-streamer-release/releases/latest/download/liveStreamerLinux.zip) | 
+| **LiveStreamer Windows x64** |  v1.0.6 | [liveStreamer.zip](https://github.com/impleotv/live-streamer-release/releases/latest/download/liveStreamer.zip) | 
+| **LiveStreamer Linux x64**   |  v1.0.6 | [liveStreamerLinux.zip](https://github.com/impleotv/live-streamer-release/releases/latest/download/liveStreamerLinux.zip) | 
 
 
-*Released on Wed, 9 Feb, 13:11 GMT+2*
+*Released on Wed, 9 Feb, 13:21 GMT+2*
 
 ## License
 

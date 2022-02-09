@@ -56,11 +56,15 @@ jobs:
           exclude: |
             **/.git*
             **/.git*/**
-            **/node_modules/**        
+            **/node_modules/**     
+            **/images/**           
             *.txt
             *.lic
             *.pdf
             *.md
+            *.js
+            *.mustache
+            *.json
 
 
 

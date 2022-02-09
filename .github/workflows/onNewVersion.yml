@@ -57,7 +57,7 @@ jobs:
             **/.git*
             **/.git*/**
             **/node_modules/**     
-            **/images/**           
+            /images/**           
             *.txt
             *.lic
             *.pdf

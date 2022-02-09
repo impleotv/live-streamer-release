@@ -40,8 +40,22 @@ jobs:
           server: ftp.impleotv.com
           username: sw@impleotv.com
           password: ${{ secrets.FTP_IMPLEO_SW }}
-          local-dir: ./dist
+          local-dir: ./dist/
           server-dir: livestreamer/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/linux-x64/**
+            **/win32-x64/**
+            liveStreamer.exe
+            liveStreamer.run
+            *.txt
+            *.lic
+            *.pdf
+            *.md
+
+
 
       - name: Setup NodeJs 14.x
         uses: actions/setup-node@v1

@@ -51,7 +51,7 @@ jobs:
           server: ftp.impleotv.com
           username: sw@impleotv.com
           password: ${{ secrets.FTP_IMPLEO_SW }}
-          local-dir: ./
+          local-dir: ./dist/
           server-dir: livestreamer/
           exclude: |
             **/.git*

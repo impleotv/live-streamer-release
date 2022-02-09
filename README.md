@@ -24,10 +24,11 @@ OS: Windows 10 64 bit / Linux x64.
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **LiveStreamer** |  master | [SetupStPlayer.zip](https://github.com/impleotv/live-streamer-release/releases/latest/download/SetupStPlayer.zip) | 
+| **LiveStreamer Windows x64** |  master | [liveStreamer.zip](https://github.com/impleotv/live-streamer-release/releases/latest/download/liveStreamer.zip) | 
+| **LiveStreamer Linux x64**   |  master | [liveStreamerLinux.zip](https://github.com/impleotv/live-streamer-release/releases/latest/download/liveStreamerLinux.zip) | 
 
 
-*Released on Wed, 9 Feb, 11:59 GMT+2*
+*Released on Wed, 9 Feb, 13:11 GMT+2*
 
 ## License
 

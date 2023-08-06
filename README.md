@@ -36,6 +36,9 @@ No license is needed for application evaluation - it will work in demo mode (wit
 
 **LiveStreamer** is a node locked software, so you have to get a license (after purchasing the SW) in order to lift demo restrictions. Please install the application and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
 
+Node Info string can be seen when you run the application:  
+![NodeInfo string](images/liveStreamerLicense.png)
+
 Applying license. Use one of two options:
 
 - passing license info as the arguments (with --licenseFile and --licenseKey)
